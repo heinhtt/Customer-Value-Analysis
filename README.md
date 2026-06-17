@@ -8,7 +8,7 @@ This project directly addresses a critical challenge for **customer segmentation
 ---
 
 ## 💻 Interactive Dashboard
-> 💡 **Tip:** Click the screenshot below to open the fully interactive cloud report.
+> 💡 **Tip:** Click the link below to open the fully interactive cloud report.
 
 [![Click to view Interactive Dashboard](./customer-value-analysis-report-screenshot.png)](https://datastudio.google.com/s/jIZShVbqfWw)
 
