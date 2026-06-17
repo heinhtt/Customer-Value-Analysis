@@ -1,1 +1,4 @@
+Unlocking Customer Value: A Deep Dive into E-commerce Behavior
+This project directly addresses a critical challenge for customer segmentation of e-commerce & retails reflecting their marketing campaigns to maximize customer retention & ROI by understanding customer values & behaviors against the business problem like limited budget, ineffective campaigns. The primary objective was to conduct comprehensive data analysis uncovering the crucial insights with standard marketing model RFM segmentation grouping customers for validating loyalty & re-engagement and also develop interactive dashboard deriving actionable business insights with reproductible data pipeline.
+
 [![Click to view Interactive Dashboard](./customer-value-analysis-report-screenshot.png)](https://datastudio.google.com/s/jIZShVbqfWw)
